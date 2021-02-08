@@ -8,6 +8,7 @@ Use left mouse button to preform actions:
 Use the right mouse button to remove crops or sell living animals
 Use the scroll wheel to scroll through the options to buy crops or animals. Click the scroll wheel to switch between the
 animal or crop list.
+Click 'End day' to age and advance in game
 
 """
 
