@@ -1,6 +1,3 @@
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 """
 Game that is a basic simulation of a farm by being able to plant, water and harvest crops, feed and herd animals.
 How to play:
